@@ -2,7 +2,7 @@
 - 👀 I'm into Web things...
 - 🌱 I’m currently learning Next.Js, Nest.js, and a lot more.
 - 💞️ I’m looking to collaborate on Backend Developement.
-- 📫 You can reach me out using my email : kanungojeet09@gmail.com
+- 📫 You can reach me out using my email : jeetkanungo09@gmail.com
 
 <!---
 Backie14/Backie14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
